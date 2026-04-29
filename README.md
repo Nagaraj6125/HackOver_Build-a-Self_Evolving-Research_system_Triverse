@@ -2,10 +2,16 @@
 
 A smart AI-based learning assistant that helps users understand key concepts in:
 
-- Artificial Intelligence (AI)
-- Machine Learning (ML)
-- Neural Networks
-- Shopping Applications
+- DSA
+- Photosynthesis
+- Stress-sad, sadness
+- Gravity
+- Circle
+- Statistics
+- Engineering
+- Machine Learning-ml
+- Hello
+- 
 
 ---
 
